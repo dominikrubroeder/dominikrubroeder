@@ -7,7 +7,7 @@ Team frontend
 * 🌍  I'm based in Munich, Bavaria, Germany
 * 🖥️  See my portfolio at [dominikrubroeder.vercel.app](http://dominikrubroeder.vercel.app)
 * ✉️  You can contact me at [dominikrubroeder@icloud.com](mailto:dominikrubroeder@icloud.com)
-* 🚀  I'm currently working on [Technical solution for Bachelor of Arts Degree in Media Design (private)](http://github.com/dominikrubroeder/nintendo-mario-strikers-blf)
+* 🚀  I'm currently working on [Technical solution for Bachelor of Arts Degree in Media Design (private repo)](http://github.com/dominikrubroeder/nintendo-mario-strikers-blf)
 
 ### Skills
 
