@@ -7,7 +7,8 @@ Team frontend
 *   🌍  I'm based in Munich, Bavaria, Germany
 *   🖥️  See my portfolio at [dominikrubroeder.vercel.app](http://dominikrubroeder.vercel.app)
 *   ✉️  You can contact me at [dominikrubroeder@icloud.com](mailto:dominikrubroeder@icloud.com)
-*   🚀  I'm currently working on [Technical solution for Bachelor of Arts Degree in Media Design (private)](http://github.com/dominikrubroeder/nintendo-mario-strikers-blf)### Skills 
+*   🚀  I'm currently working on [Technical solution for Bachelor of Arts Degree in Media Design (private)](http://github.com/dominikrubroeder/nintendo-mario-strikers-blf)
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
