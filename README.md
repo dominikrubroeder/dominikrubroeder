@@ -8,7 +8,7 @@ Team frontend
 * 🖥️  See my portfolio at [dominikrubroeder.vercel.app](http://dominikrubroeder.vercel.app)
 * ✉️  You can contact me at [dominikrubroeder@icloud.com](mailto:dominikrubroeder@icloud.com)
 * 🎓  Bachelor's Degree in Media Design; BA Bachelor of Arts
-* 🚀  Finished my [Technical solution for Bachelor of Arts Degree in Media Design (private repo)](http://github.com/dominikrubroeder/nintendo-mario-strikers-blf) ending March 2023.
+* 🚀  Finished my [Technical solution for Bachelor of Arts Degree in Media Design](http://github.com/dominikrubroeder/nintendo-mario-strikers-blf) ending March 2023.
 
 ### Skills
 
