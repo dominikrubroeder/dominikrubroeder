@@ -4,7 +4,7 @@ Hi 👋 My name is Dominik Rubröder
 Team frontend
 -------------
 
-* 🌍  I'm based in Munich, Bavaria, Germany
+* 🌍  I'm based in Wolfratshausen, near Munich, Bavaria, Germany
 * 🖥️  See my portfolio at [dominikrubroeder.vercel.app](http://dominikrubroeder.vercel.app)
 * ✉️  You can contact me at [dominik.rubroeder@icloud.com](mailto:dominik.rubroeder@icloud.com)
 * 🎓  Bachelor's Degree in Media Design; BA Bachelor of Arts
