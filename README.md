@@ -1,7 +1,7 @@
 Hi 👋 My name is Dominik Rubröder
 =================================
 
-Team frontend
+Team Frontend
 -------------
 
 * 🌍  I'm based in Wolfratshausen, near Munich, Bavaria, Germany
