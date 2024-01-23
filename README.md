@@ -1,8 +1,8 @@
 Hi 👋 My name is Dominik Rubröder
 =================================
 
-Team Frontend
--------------
+Team Frontend, UX Engineer @ mediawave
+--------------------------------------
 
 * 🌍  I'm based in Wolfratshausen, near Munich, Bavaria, Germany
 * 🖥️  See my portfolio at [dominikrubroeder.dev](https://www.dominikrubroeder.dev)
