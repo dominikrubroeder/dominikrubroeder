@@ -7,8 +7,7 @@ Team Frontend, UX Design Engineer @ mediawave
 * 🌍  I'm based in Geretsried, near Munich, Bavaria, in Germany
 * 🖥️  See more at [dominikrubroeder.dev](https://www.dominikrubroeder.dev)
 * ✉️  You can contact me at [dominik.rubroeder@icloud.com](mailto:dominik.rubroeder@icloud.com)
-* 🎓  Bachelor's Degree in Media Design; Bachelor of Arts B.A.
-* 🚀  Finished my [Technical solution for Bachelor of Arts Degree in Media Design](http://github.com/dominikrubroeder/nintendo-mario-strikers-blf) ending March 2023.
+* 🎓  Bachelor's Degree in Media Design; Bachelor of Arts B.A., [Technical solution for Bachelor of Arts Degree in Media Design](http://github.com/dominikrubroeder/nintendo-mario-strikers-blf).
 
 ### Skills
 
