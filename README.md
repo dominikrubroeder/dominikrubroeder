@@ -5,4 +5,4 @@ UX Engineer @ mediawave
 * 🖥️  See more at [dominikrubroeder.dev](https://www.dominikrubroeder.dev)
 * ✉️  You can contact me at [dominik.rubroeder@icloud.com](mailto:dominik.rubroeder@icloud.com)
 * 🎓  Bachelor's Degree in Media Design
-* 🎯  Specification: UX Design
+* 🎯  Specialization: UX Design, Digital Media Production
