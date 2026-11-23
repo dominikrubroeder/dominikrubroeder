@@ -1,13 +1,11 @@
-Hi 👋 My name is Dominik Rubröder
-=================================
-
-Team Frontend, UX Design Engineer @ mediawave
+UX Engineer @ mediawave
 --------------------------------------
 
 * 🌍  I'm based in Geretsried (Germany)
 * 🖥️  See more at [dominikrubroeder.dev](https://www.dominikrubroeder.dev)
 * ✉️  You can contact me at [dominik.rubroeder@icloud.com](mailto:dominik.rubroeder@icloud.com)
-* 🎓  Bachelor's Degree in Media Design in 2023
+* 🎓  Bachelor's Degree in Media Design
+* 🎯  Specification: UX Design
 
 ### Skills
 
